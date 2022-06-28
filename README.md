@@ -1,4 +1,6 @@
 > # Full-stack-project : # "Courseology" application 
+_@Final project to solidify the concepts covered in Java, Spring, MySQL, & React, this is a full-stack web application built combining these technologies. 
+The application is able to CRUD a particular database and will be based on a course and students structure_
 
 "Courseology" application is used to manage training courses. The home page lists all the courses available. There is a "Search" feature on the home page, to search for courses.
 
