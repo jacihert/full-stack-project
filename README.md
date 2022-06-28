@@ -1,4 +1,4 @@
-> # full-stack-project : # "Courseology" application 
+> # Full-stack-project : # "Courseology" application 
 
 "Courseology" application is used to manage training courses. The home page lists all the courses available. There is a "Search" feature on the home page, to search for courses.
 
